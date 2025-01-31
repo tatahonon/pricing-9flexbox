@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import CardContainer from './pagees/subsribe_pages/CardContainer/CardContainer';
 
 function App() {
 
@@ -7,7 +8,7 @@ function App() {
   return (
 
       <div>
-
+        <CardContainer></CardContainer>
       </div>
 
 
